@@ -32,6 +32,7 @@ RESCHEDULE_DAYS = 21
 GT = {0: "conference", 1: "non-conference", 2: "tournament", 3: "exhibition", 4: "playoff", 5: "conference-tournament"}
 
 LOG_LINES = []
+GHSA_FIRST_GAME = "2026-11-06"   # GHSA 2026-27: earliest date for a basketball game Fri Nov 6 (ghsa.net)
 def log(*a):
     s = " ".join(str(x) for x in a)
     LOG_LINES.append(s)
@@ -276,6 +277,9 @@ def merge(site, ledger, finals):
         if not lh and not la:
             continue
         if f["date"] < site.season_start:
+            c["ignored"] += 1; continue
+        # Georgia: GHSA teams (site divisions 1-7) may not play before GHSA_FIRST_GAME; anything earlier is a preseason scrimmage (same rule as the schedule build).
+        if f["date"] < GHSA_FIRST_GAME and any((site.slug2team.get(site.mp2slug.get(m)) or {}).get("division", 99) <= 7 for m in (f["homeMp"], f["awayMp"])):
             c["ignored"] += 1; continue
         key = (frozenset((f["homeMp"], f["awayMp"])), f["date"])
         if key in pairdate and pairdate[key] != f["contestId"]:
