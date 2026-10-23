@@ -1,54 +1,66 @@
 {
  "about": "RimRunnerGeorgia 2026-27 finals ledger, written by scripts/update_scores.py. Keyed by MaxPreps contest id. homeMp/awayMp are MaxPreps team ids. state: applied | unlisted (one team not in our list; counts for records only) | pending (final between listed teams with no scheduled game yet; awaiting team-page check) | ignored.",
  "finals": {
-  "e61be2e2-48fd-46f9-b5b7-1c77dd2df51a": {
-   "date": "2026-11-03",
-   "homeMp": "ebf1cab1-b8df-451a-b46d-e0a151747f67",
-   "awayMp": "756e2db2-dde7-4f61-a262-930f6c24aa03",
-   "state": "ignored",
-   "reason": "GHSA preseason scrimmage (GHSA earliest game date is 2026-11-06)"
-  },
-  "b7616a86-b282-4ca3-bf41-c6950b0a1727": {
-   "date": "2026-11-04",
-   "homeMp": "9aa5cd7e-c52d-450d-9997-02abc6820f2e",
-   "awayMp": "31b1eb3d-903a-4d37-a2a4-21f5ddb8ff4d",
-   "state": "ignored",
-   "reason": "GHSA preseason scrimmage (GHSA earliest game date is 2026-11-06)"
-  },
-  "8f34e407-463b-4165-86a7-a23cc667b574": {
-   "date": "2026-11-05",
-   "homeMp": "4ebc52ec-f2fe-4333-8574-f1551d141133",
-   "awayMp": "b16b592d-1dc3-4bf7-b8df-1806cc40fbe5",
-   "state": "ignored",
-   "reason": "GHSA preseason scrimmage (GHSA earliest game date is 2026-11-06)"
-  },
   "2bb3c555-4f4c-4bae-ab96-12df596905a6": {
+   "awayMp": "d011cde4-02c3-4da3-951d-5776eff55b36",
    "date": "2026-11-05",
    "homeMp": "e6701801-5185-4646-bd26-ed1e8dfe60da",
-   "awayMp": "d011cde4-02c3-4da3-951d-5776eff55b36",
-   "state": "ignored",
-   "reason": "GHSA preseason scrimmage (GHSA earliest game date is 2026-11-06)"
+   "reason": "GHSA preseason scrimmage (GHSA earliest game date is 2026-11-06)",
+   "state": "ignored"
   },
   "85d91ced-2f31-46c7-8807-4571d9abfbe3": {
+   "awayMp": "6e9d473e-0e85-4e50-af17-62808763feee",
    "date": "2026-11-05",
    "homeMp": "a8a49212-5788-4b85-a71e-1a3a6750f2a5",
-   "awayMp": "6e9d473e-0e85-4e50-af17-62808763feee",
-   "state": "ignored",
-   "reason": "GHSA preseason scrimmage (GHSA earliest game date is 2026-11-06)"
+   "reason": "GHSA preseason scrimmage (GHSA earliest game date is 2026-11-06)",
+   "state": "ignored"
+  },
+  "8f34e407-463b-4165-86a7-a23cc667b574": {
+   "awayMp": "b16b592d-1dc3-4bf7-b8df-1806cc40fbe5",
+   "date": "2026-11-05",
+   "homeMp": "4ebc52ec-f2fe-4333-8574-f1551d141133",
+   "reason": "GHSA preseason scrimmage (GHSA earliest game date is 2026-11-06)",
+   "state": "ignored"
   },
   "9d1c813b-5ca0-44c2-8100-c7e8465d436f": {
+   "awayMp": "a45aa899-e567-4140-807f-0971701222f7",
    "date": "2026-11-05",
    "homeMp": "74042cf1-c008-4cb7-a92f-03761f1156b3",
-   "awayMp": "a45aa899-e567-4140-807f-0971701222f7",
-   "state": "ignored",
-   "reason": "GHSA preseason scrimmage (GHSA earliest game date is 2026-11-06)"
+   "reason": "GHSA preseason scrimmage (GHSA earliest game date is 2026-11-06)",
+   "state": "ignored"
+  },
+  "b7616a86-b282-4ca3-bf41-c6950b0a1727": {
+   "awayMp": "31b1eb3d-903a-4d37-a2a4-21f5ddb8ff4d",
+   "date": "2026-11-04",
+   "homeMp": "9aa5cd7e-c52d-450d-9997-02abc6820f2e",
+   "reason": "GHSA preseason scrimmage (GHSA earliest game date is 2026-11-06)",
+   "state": "ignored"
   },
   "d1c24ad4-4624-42ad-98f0-4550e459ae9e": {
+   "awayMp": "0d9305bf-13dc-4957-a5ed-22052eada89d",
    "date": "2026-11-05",
    "homeMp": "50ecc87a-a849-44eb-ae8f-44b084911fab",
-   "awayMp": "0d9305bf-13dc-4957-a5ed-22052eada89d",
-   "state": "ignored",
-   "reason": "GHSA preseason scrimmage (GHSA earliest game date is 2026-11-06)"
+   "reason": "GHSA preseason scrimmage (GHSA earliest game date is 2026-11-06)",
+   "state": "ignored"
+  },
+  "d86f57a0-4a33-4f61-b081-f2f2322d63d2": {
+   "awayMp": "23bae8a4-95f3-4f43-99bb-9c0a28566b66",
+   "awayScore": 27,
+   "date": "2026-10-22",
+   "forfeit": false,
+   "homeMp": "3ec827e7-2e4f-4418-9120-ea366c3148db",
+   "homeScore": 65,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "unlisted",
+   "winner": "home"
+  },
+  "e61be2e2-48fd-46f9-b5b7-1c77dd2df51a": {
+   "awayMp": "756e2db2-dde7-4f61-a262-930f6c24aa03",
+   "date": "2026-11-03",
+   "homeMp": "ebf1cab1-b8df-451a-b46d-e0a151747f67",
+   "reason": "GHSA preseason scrimmage (GHSA earliest game date is 2026-11-06)",
+   "state": "ignored"
   }
  }
 }
