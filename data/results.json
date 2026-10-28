@@ -62,6 +62,19 @@
    "state": "applied",
    "winner": "away"
   },
+  "be7ea530-6338-4f03-8f2a-701515016aa3": {
+   "awayMp": "4ec884db-7beb-46a6-81af-47e4dfd38803",
+   "awayScore": 69,
+   "date": "2026-10-27",
+   "forfeit": false,
+   "gameId": "ga26-0007",
+   "homeMp": "cf6e453b-f4a8-4e71-9161-f928beafaa80",
+   "homeScore": 58,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
+  },
   "d1c24ad4-4624-42ad-98f0-4550e459ae9e": {
    "awayMp": "0d9305bf-13dc-4957-a5ed-22052eada89d",
    "date": "2026-11-05",
@@ -87,6 +100,19 @@
    "homeMp": "ebf1cab1-b8df-451a-b46d-e0a151747f67",
    "reason": "GHSA preseason scrimmage (GHSA earliest game date is 2026-11-06)",
    "state": "ignored"
+  },
+  "f64602a1-b23b-4da7-bd47-e763de3e27ae": {
+   "awayMp": "ca0ac588-33e7-4052-9984-995314c4ddce",
+   "awayScore": 17,
+   "date": "2026-10-27",
+   "forfeit": false,
+   "gameId": "ga26-0004",
+   "homeMp": "0c1ac212-e75c-43f4-901f-eb8fe90b4f56",
+   "homeScore": 47,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
   }
  }
 }
