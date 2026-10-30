@@ -55,6 +55,19 @@
    "reason": "GHSA preseason scrimmage (GHSA earliest game date is 2026-11-06)",
    "state": "ignored"
   },
+  "ad1b536a-c8a1-4867-aa93-ac5df828948c": {
+   "awayMp": "1c6c4fe1-3109-4308-978d-9000e528a5bd",
+   "awayScore": 31,
+   "date": "2026-10-29",
+   "forfeit": false,
+   "gameId": "ga26-0012",
+   "homeMp": "9d9d24d3-f30b-4ddb-aeda-b8740fc6aa44",
+   "homeScore": 80,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
   "b7616a86-b282-4ca3-bf41-c6950b0a1727": {
    "awayMp": "31b1eb3d-903a-4d37-a2a4-21f5ddb8ff4d",
    "date": "2026-11-04",
@@ -94,7 +107,7 @@
    "date": "2026-10-29",
    "forfeit": false,
    "homeMp": "4ec884db-7beb-46a6-81af-47e4dfd38803",
-   "homeScore": 62,
+   "homeScore": 56,
    "neutral": null,
    "source": "scores-page",
    "state": "unlisted",
