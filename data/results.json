@@ -1,6 +1,18 @@
 {
  "about": "RimRunnerGeorgia 2026-27 finals ledger, written by scripts/update_scores.py. Keyed by MaxPreps contest id. homeMp/awayMp are MaxPreps team ids. state: applied | unlisted (one team not in our list; counts for records only) | pending (final between listed teams with no scheduled game yet; awaiting team-page check) | ignored.",
  "finals": {
+  "10e044b7-3ed2-4824-a710-f9e367f35417": {
+   "awayMp": "e78c2f5b-1cc1-4042-a6c8-5ea9be65d769",
+   "awayScore": 74,
+   "date": "2026-10-29",
+   "forfeit": false,
+   "homeMp": "db8c2e64-edcd-4cb1-988c-cc47feccf826",
+   "homeScore": 39,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "unlisted",
+   "winner": "away"
+  },
   "2bb3c555-4f4c-4bae-ab96-12df596905a6": {
    "awayMp": "d011cde4-02c3-4da3-951d-5776eff55b36",
    "date": "2026-11-05",
@@ -16,6 +28,19 @@
    "gameId": "ga26-0009",
    "homeMp": "3ec827e7-2e4f-4418-9120-ea366c3148db",
    "homeScore": 77,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
+  "50c3aff3-10a6-4b70-aa2b-511d6845f942": {
+   "awayMp": "72f114d5-3804-4c29-8d0c-8805e0b437ba",
+   "awayScore": 56,
+   "date": "2026-10-30",
+   "forfeit": false,
+   "gameId": "ga26-0014",
+   "homeMp": "9d9d24d3-f30b-4ddb-aeda-b8740fc6aa44",
+   "homeScore": 96,
    "neutral": null,
    "source": "scores-page",
    "state": "applied",
