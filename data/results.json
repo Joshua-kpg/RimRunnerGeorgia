@@ -20,6 +20,19 @@
    "reason": "GHSA preseason scrimmage (GHSA earliest game date is 2026-11-06)",
    "state": "ignored"
   },
+  "3c1138c4-ed2a-438d-84b0-62f5fdd40834": {
+   "awayMp": "2c5497da-467a-4164-a007-5c7bc17ef524",
+   "awayScore": 64,
+   "date": "2026-11-03",
+   "forfeit": false,
+   "homeMp": "1c6c4fe1-3109-4308-978d-9000e528a5bd",
+   "homeScore": 36,
+   "neutral": null,
+   "reason": "scrimmage/exhibition",
+   "source": "scores-page",
+   "state": "ignored",
+   "winner": "away"
+  },
   "3dc86872-1bc8-4e4a-b7ac-139e8735009f": {
    "awayMp": "6e88de6b-db5f-49a1-9630-0ba1fef2f963",
    "awayScore": 35,
@@ -86,6 +99,21 @@
    "reason": "GHSA preseason scrimmage (GHSA earliest game date is 2026-11-06)",
    "state": "ignored"
   },
+  "99b3b4ed-6318-42b9-9eb6-7f0f46760b9a": {
+   "awayMp": "6fca2690-3a60-4a0e-9b6c-05172f7e0b7b",
+   "awayScore": 40,
+   "date": "2026-11-03",
+   "forfeit": false,
+   "gameId": "ga26-x001",
+   "gameType": "non-conference",
+   "homeMp": "1904889a-c8c3-4210-8c7f-b20c8bb609c1",
+   "homeScore": 46,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "home"
+  },
   "9d1c813b-5ca0-44c2-8100-c7e8465d436f": {
    "awayMp": "a45aa899-e567-4140-807f-0971701222f7",
    "date": "2026-11-05",
@@ -101,6 +129,19 @@
    "gameId": "ga26-0012",
    "homeMp": "9d9d24d3-f30b-4ddb-aeda-b8740fc6aa44",
    "homeScore": 80,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
+  "adb9e2fc-9c21-4312-a709-1c6d6baf84c0": {
+   "awayMp": "1cf49eb2-132c-4835-b3d6-aeb8a38fd113",
+   "awayScore": 43,
+   "date": "2026-11-03",
+   "forfeit": false,
+   "gameId": "ga26-0006",
+   "homeMp": "e34ecd19-99fa-4b46-a783-dd39c4b2d85a",
+   "homeScore": 64,
    "neutral": null,
    "source": "scores-page",
    "state": "applied",
@@ -124,6 +165,21 @@
    "neutral": null,
    "source": "scores-page",
    "state": "applied",
+   "winner": "away"
+  },
+  "bdf74be3-495f-4524-989a-6552c124c322": {
+   "awayMp": "def456e0-0b7b-4130-9b95-f4fb70069096",
+   "awayScore": 70,
+   "date": "2026-11-03",
+   "forfeit": false,
+   "gameId": "ga26-x002",
+   "gameType": "non-conference",
+   "homeMp": "be017c8d-7b75-445c-9be1-a5f9d84fa266",
+   "homeScore": 22,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
    "winner": "away"
   },
   "be7ea530-6338-4f03-8f2a-701515016aa3": {
