@@ -85,6 +85,21 @@
    "state": "applied",
    "winner": "home"
   },
+  "796bf736-46c0-4b0d-81e3-08ed33f1226c": {
+   "awayMp": "be017c8d-7b75-445c-9be1-a5f9d84fa266",
+   "awayScore": 72,
+   "date": "2026-11-04",
+   "forfeit": false,
+   "gameId": "ga26-x003",
+   "gameType": "conference",
+   "homeMp": "5590cf49-a5b1-4fb9-89d2-8f01f5da259b",
+   "homeScore": 13,
+   "neutral": false,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "away"
+  },
   "85d91ced-2f31-46c7-8807-4571d9abfbe3": {
    "awayMp": "6e9d473e-0e85-4e50-af17-62808763feee",
    "date": "2026-11-05",
