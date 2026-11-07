@@ -136,6 +136,19 @@
    "state": "applied",
    "winner": "home"
   },
+  "49996d43-8e3b-4858-860d-dea65cbd00e9": {
+   "awayMp": "a35f4106-31a9-4603-b5f6-b9d649346eff",
+   "awayScore": 69,
+   "date": "2026-11-06",
+   "forfeit": false,
+   "gameId": "ga26-0026",
+   "homeMp": "f64cada6-f13b-43b9-b5f1-81ad2a6e3c75",
+   "homeScore": 57,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
+  },
   "4aad8c99-2ea4-4b7b-ab40-7902232374ef": {
    "awayMp": "5b34cfbd-4e21-408c-89db-fc5d034e641d",
    "awayScore": 55,
