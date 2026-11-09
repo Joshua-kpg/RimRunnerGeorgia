@@ -128,6 +128,19 @@
    "state": "applied",
    "winner": "away"
   },
+  "1fe58e05-44bc-4efb-9f8c-77c59aaa0aa7": {
+   "awayMp": "b847f913-e565-48e8-a1ca-1319f75be210",
+   "awayScore": 60,
+   "date": "2026-11-07",
+   "forfeit": false,
+   "gameId": "ga26-0059",
+   "homeMp": "3c7b0402-992a-4f83-b074-f4f583c63b7f",
+   "homeScore": 71,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
   "20c94714-7e07-4074-ae12-1320fa2eb77c": {
    "awayMp": "4b77a6c4-e671-49eb-99c4-5cadd1a48744",
    "awayScore": 73,
@@ -769,11 +782,11 @@
   },
   "9339962d-b59c-4e33-8700-749dd3d80b43": {
    "awayMp": "3c328fdc-da44-4753-bd6f-ee933f2b5fdb",
-   "awayScore": 87,
+   "awayScore": 84,
    "date": "2026-11-07",
    "forfeit": false,
    "homeMp": "72f114d5-3804-4c29-8d0c-8805e0b437ba",
-   "homeScore": 54,
+   "homeScore": 57,
    "neutral": null,
    "source": "scores-page",
    "state": "unlisted",
@@ -918,6 +931,18 @@
    "state": "applied",
    "winner": "home"
   },
+  "a5fb9afc-61ec-4554-be06-49c8e0f73bdd": {
+   "awayMp": "b65dff31-4229-4704-9300-1093452025fa",
+   "awayScore": 56,
+   "date": "2026-11-07",
+   "forfeit": false,
+   "homeMp": "6d911aa9-98f2-47ea-9dc7-da9a7bb4c363",
+   "homeScore": 57,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "unlisted",
+   "winner": "home"
+  },
   "a79f6c38-0c4e-461d-9042-bd3823aaafc3": {
    "awayMp": "9057865e-82c0-4da7-a775-d3f219e37794",
    "awayScore": 62,
@@ -1038,6 +1063,19 @@
    "gameId": "ga26-0002",
    "homeMp": "e34ecd19-99fa-4b46-a783-dd39c4b2d85a",
    "homeScore": 37,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "away"
+  },
+  "baefdf1d-6e16-47d1-99e2-64eac73b3291": {
+   "awayMp": "3a957a39-cabe-4a81-9562-c72d988313e5",
+   "awayScore": 81,
+   "date": "2026-11-07",
+   "forfeit": false,
+   "gameId": "ga26-0086",
+   "homeMp": "64672993-e03c-4967-9964-4d388a3bd961",
+   "homeScore": 53,
    "neutral": null,
    "source": "scores-page",
    "state": "applied",
