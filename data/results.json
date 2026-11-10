@@ -542,6 +542,19 @@
    "state": "applied",
    "winner": "away"
   },
+  "5603fc7f-e8c5-43c4-81fb-b48f4ff0191c": {
+   "awayMp": "1cf49eb2-132c-4835-b3d6-aeb8a38fd113",
+   "awayScore": 40,
+   "date": "2026-11-09",
+   "forfeit": false,
+   "gameId": "ga26-0093",
+   "homeMp": "97f94919-5785-4222-a4cd-117df226a44e",
+   "homeScore": 44,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "applied",
+   "winner": "home"
+  },
   "58a0192c-7b29-4110-a79d-ee5c7f8a30b0": {
    "awayMp": "cf6e453b-f4a8-4e71-9161-f928beafaa80",
    "awayScore": 58,
@@ -1478,6 +1491,19 @@
    "source": "scores-page",
    "state": "applied",
    "winner": "away"
+  },
+  "ca32f9ec-fc1d-49f5-92ea-ef0667aa0ac5": {
+   "awayMp": "246e3e71-d84a-4d63-8764-03e9602f0cd6",
+   "awayScore": 73,
+   "date": "2026-11-09",
+   "forfeit": false,
+   "homeMp": "8c23bdc8-da38-4026-b7e0-f20d6300b44b",
+   "homeScore": 87,
+   "neutral": null,
+   "reason": "scrimmage/exhibition",
+   "source": "scores-page",
+   "state": "ignored",
+   "winner": "home"
   },
   "cd0c328e-98d2-4106-a1b4-ff94bd58d5b9": {
    "awayMp": "f8a36ec6-bdf3-4a11-bc90-742fbe48e754",
